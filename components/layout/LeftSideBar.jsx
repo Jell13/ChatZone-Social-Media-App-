@@ -20,7 +20,7 @@ const LeftSideBar = () => {
           <p>Admin</p>
         </div>
 
-        <div className='flex text-light-1 gap-4 justify-between'>
+        <div className='flex text-light-1 justify-between'>
           <div className='flex flex-col items-center'>
             <p className='text-base-bold'>1</p>
             <p className='text-tiny-medium'>Post</p>
